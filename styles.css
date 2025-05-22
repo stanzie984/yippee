@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    margin: 10;
+    padding: 40px;
+    color: green;
+    max-width: 800px;
+    margin: 0 auto;
+    background: lightgreen
+}
+
+h1 {
+    color: green;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
